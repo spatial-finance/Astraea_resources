@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+src/main/jupyter/tir-macroloc-model/*.pkl
+src/main/jupyter/S2-macroloc-model/*.pkl
+phase-2-deployment/src/main/resources/macro-loc-model-deployment/l8-chip-centers/*

@@ -1,0 +1,3 @@
+- Creation of 1m x 1m polygons over knwon cement sites ---- SmithSchool database version 3 exact location, integrated plants over China
+- 5m box around each cement site, creating 1m x 1m polygons for non-cement landcovers.
+- Cleaning landcovers to make sure they are not over known cement sites

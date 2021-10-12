@@ -1,0 +1,134 @@
+iso3,uid,country,pf_number_plants,pf_number_blast_furnace,pf_total_raw_production_capacity,Unnamed: 6,pf_owner,pf_location,status,latitude,longitude,source,accuracy,owner_permid,owner_name,reported_capacity,reported_production_start,owner_source,date_accessed,parent_permid,parent_name,ownership_stake,parent_permid.1,parent_name.1,ownership_stake.1,comment_ownership,rank,pop2020,GrowthRate
+BGD,BGD0003,Bangladesh,2.0,,0.0,0.0,RAHIM STEEL MILLS,DACCA,Operating,23.716782100000003,90.4221204,PlantFacts,Approximate,,,,,,,,,,,,,,,164689.383,0.0101
+BGD,BGD0005,Bangladesh,4.0,,,0.0,MEGHNA ENG. WORKS,CHITTAGONG,Operating,22.356851000000002,91.7831819,PlantFacts,Approximate,,,,,,,,,,,,,,,164689.383,0.0101
+KHM,KHM0001,Cambodia,1.0,,,0.0,EASTERN STEEL IND.,PHNOM PENH,Operating,11.556373800000001,104.92820990000001,PlantFacts,Approximate,,,,,,,,,,,,,,,16718.965,0.0141
+IND,IND0001,India,1.0,1.0,110.0,0.0,MID-WEST IRON & STEEL,"SRIKAKULAM, ANDHRA",Operating,18.303555,83.896408,PlantFacts,Approximate,,,,,,,,,,,,,Plant owned by Concast / Dakuni Steels Ltd (http://www.concastispat.com/page_steel.html),,1380004.385,0.0099
+IND,IND0013,India,1.0,,,0.0,DURGAPUR PROJECTS LTD,"DUGAPUR, WEST BENGAL",Operating,23.510915,87.310521,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0021,India,2.0,,0.0,0.0,G.K. STEEL & ALLIED,MADRAS,Operating,13.108702,80.155322,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0035,India,2.0,1.0,180.0,0.0,SATHAVAHANA ISPAT,"SIRIGUPPA, KARNATAKA",Operating,15.225248,76.764042,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0066,India,5.0,,,0.0,RATHI STEEL & POWER LTD,"SAMBALPUR, ODISHA",Operating,21.475166,83.965938,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0067,India,4.0,,150.0,0.0,REMI METALS GUJARAT,"JHAGADIA, GUJARAT",Operating,21.697198999999998,73.154536,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0083,India,2.0,,150.0,0.0,ISHAR ALLOY STEELS LTD,"INDORE, MADHYA PRADESH",Operating,22.719231,75.85757,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0105,India,1.0,,150.0,0.0,BIHAR SPONGE IRON,"CHANDIL, JHARKHAND",Operating,22.977603,86.11404,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0117,India,2.0,,50.0,0.0,STAR STEEL PVT.LTD,VADODARA,Operating,22.312855300000003,73.23250329999999,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0119,India,3.0,,50.0,0.0,KAP STEEL LTD,KAP BANGALORE,Operating,12.996615,77.70884000000001,PlantFacts,Approximate,,,,,,,,,,,,,couldn't be found & located exactly,,1380004.385,0.0099
+IND,IND0120,India,2.0,1.0,400.0,0.0,RKKR STEELS,"NELLORE, ANDHRA PRADESH",Operating,14.137785000000001,79.98995500000001,PlantFacts,Approximate,,,,,,,,,,,,,might be the other SBQ STEELS (RKKR STEELS) plant,,1380004.385,0.0099
+IND,IND0121,India,7.0,,136.0,0.0,JSW-BELLARY STEEL & ALLOYS,"BELLARY, KARNATAKA",Operating,15.193604999999998,76.66379599999999,PlantFacts,Approximate,,,,,,,,,,,,,part of the big JSW plant,,1380004.385,0.0099
+IND,IND0122,India,3.0,,200.0,0.0,MALHOTRA STEELS.LTD,"KHOPOLI, MAHARASHTRA",Operating,18.7982,73.343734,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0123,India,1.0,,,0.0,KONARK MET COKE (KMCL),"DUBURI, ODISHA",Operating,20.998641,86.019102,PlantFacts,Approximate,,,,,https://economictimes.indiatimes.com/markets/stocks/news/orissa-govt-considering-to-pump-in-rs-95-crore-as-equity-in-ninl/articleshow/5535971.cms?from=mdr,,,,,,,,Seems to belong to NEELACHAL ISPAT NIGAM LTD (NINL) and is part of their plant,,1380004.385,0.0099
+IND,IND0124,India,1.0,,,0.0,RAJINDER STEEL LTD,RAIPUR,Operating,21.326037,81.657903,PlantFacts,Approximate,,,,,,,,,,,,,"company under liquidation ;  https://www.zaubacorp.com/company/RAJINDER-STEELS-LIMITED/U27310UP1984PLC006722 ; I assume this is in Raipur Metropolitan Area, Chhattisgarh, but not sure",,1380004.385,0.0099
+IND,IND0125,India,1.0,,30.0,0.0,TAMIL NADU SPONGE,"SALEM, TAMIL NADU",Operating,11.664325,78.1460142,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0126,India,1.0,,,0.0,GUJARAT NRE COKE,"JAMNAGAR, GUJARAT",Operating,22.420270000000002,69.83171999999999,PlantFacts,Approximate,,,,,,,,,,,,,not clear if this is the correct plant ,,1380004.385,0.0099
+IND,IND0127,India,1.0,,,0.0,ANTAI BALAJI COKE,KANDLA PORT,Operating,23.023056,70.167805,PlantFacts,Approximate,,,,,,,,,,,,,"Couldn't be located exactly, but must be somewhere near the port",,1380004.385,0.0099
+IND,IND0129,India,1.0,,,0.0,RATHI ALLOYS+STEEL,ALWAR (NEW DEHLI),Operating,28.640620000000002,77.43556600000001,PlantFacts,Approximate,,,,,,,,,,,,,"there are several Rathi facilities in and around New Delhi (none of which is named RATHI ALLOYS+STEEL), could be this one",,1380004.385,0.0099
+IND,IND0130,India,1.0,,,0.0,RATHI STEEL & POWER LTD,"GHAZIABAD, HARYANA",Operating,28.641701,77.434605,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0131,India,4.0,,0.0,0.0,UMESH MODI / Modi INDUSTRIES,MODI MODINAGAR,Operating,28.817624,77.551328,PlantFacts,Approximate,,,,,,,,,,,,,Should be located somewhere in the industrial park,,1380004.385,0.0099
+IND,IND0132,India,1.0,,,0.0,JAMSHEDPUR CONTI. ANNEAL.& PROCESSING,"JAMSHEDPUR, JHARKH.",Operating,22.784007,86.197833,PlantFacts,Approximate,,Jamshedpur Continuous Annealing and Processing Company Private Limited,,,http://www.jcapcpl.com/,2020-04-08,4295872420.0,Tata Steel Ltd,,,,,"On 17th August, 2012, Tata Steel Limited and Nippon Steel Corporation established a Joint Venture, Jamshedpur Continuous Annealing & Processing Company Pvt. Ltd. (JCAPCPL). The Company has set up a 600,000 Tpa state-of-art Continuous Annealing & Processing Line (CAPL), inside Tata Steel Works at Jamshedpur which is producing high end Automotive cold rolled steels, thereby enabling Automotive OEMs to address their strategic objective of increased localisation.",,1380004.385,0.0099
+IND,IND0133,India,1.0,,,0.0,SIPTA COATED STEELS,"MUMBAI, MAHARASHTRA",Operating,19.0759837,72.87765590000001,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0134,India,2.0,,,0.0,USHA RECTIFIER CORP.,AMETHI,Operating,26.1540538,81.814238,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0135,India,6.0,,290.0,0.0,PANCHMAHAL STEEL,"BARODA, GUJARAT",Operating,22.307158800000003,73.1812187,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0136,India,3.0,,0.0,0.0,SANGHVI STEEL LTD,TALOJA,Operating,19.067924100000003,73.1080243,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0137,India,1.0,,,0.0,NATIONAL STEEL & AGRO IND.,"INDORE, MADHYA PRADESH",Operating,22.7188049,75.87866640000001,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0138,India,1.0,1.0,88.0,0.0,UNIMETAL ISPAT LTD,"BELLARY, ANDHRA PRADESH",Operating,52.56290260000001,-2.0861655,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0139,India,2.0,,,0.0,GWK LTD,"HOWRAH, WEST BENGAL",Operating,22.5957689,88.2636394,PlantFacts,Approximate,,,,,,,,,,,,,Warehousing only; https://www.gkwltd.com/,,1380004.385,0.0099
+IND,IND0140,India,1.0,,90.0,0.0,HINDUSTAN ELECT.GRAPHITE,"BORAI, CHHATTISGARH",Operating,21.250598800000002,81.1912849,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0141,India,2.0,,200.0,0.0,INDIAN SEAMLESS ST.& ALLOYS,"PUNE, MAHARASTRA",Operating,18.5204303,73.85674370000001,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0144,India,1.0,,60.0,0.0,KUMAR METALLURGICAL,"NALGONDA, ANDHRA PRADESH",Operating,17.188299800000003,79.19999490000001,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IND,IND0145,India,1.0,1.0,90.0,0.0,LANCO IND. LTD,"TIRUPATI, ANDHRA PRADESH",Operating,13.6287557,79.4191795,PlantFacts,Approximate,,,,,,,,,,,,,,,1380004.385,0.0099
+IDN,IDN0023,Indonesia,3.0,,360.0,0.0,PT JAKARTA ST. MEGAH UTAMA,"PULOGADUNG, JAKARTA",Operating,-6.2087634000000005,106.84559899999999,PlantFacts,Approximate,,,,,,,,,,,,,,,273523.615,0.0107
+IDN,IDN0024,Indonesia,3.0,,120.0,0.0,PT TOYOGIRI I&S,"PUSAT, JAKARTA",Operating,-6.1820895,106.81833529999999,PlantFacts,Approximate,,,,,,,,,,,,,,,273523.615,0.0107
+IDN,IDN0025,Indonesia,1.0,,,0.0,PT JAKARTA PRIMA STEEL IND.,"PULOGADUNG, JAKARTA",Operating,-6.181534,106.932305,PlantFacts,Approximate,,,,,,,,,,,,,,,273523.615,0.0107
+IDN,IDN0026,Indonesia,3.0,,150.0,0.0,PT INTER WORLD STEEL MILLS INDO.,JAKARTA,Operating,-6.1549537,106.84464140000001,PlantFacts,Approximate,,,,,,,,,,,,,,,273523.615,0.0107
+IDN,IDN0027,Indonesia,3.0,,150.0,0.0,PT BUDIDHARMA JAKARTA,"TANJUNG PRIOK, JAKARTA",Operating,-6.1320555,106.8714848,PlantFacts,Approximate,,,,,,,,,,,,,,,273523.615,0.0107
+IDN,IDN0028,Indonesia,1.0,,,0.0,PT EMPREROR STEEL,SEMARANG,Operating,-7.0051453,110.43812539999999,PlantFacts,Approximate,,,,,,,,,,,,,,,273523.615,0.0107
+IDN,IDN0029,Indonesia,3.0,,,0.0,PT RAJA BESI,SEMARANG,Operating,-7.0670055,110.4105179,PlantFacts,Approximate,,,,,,,,,,,,,,,273523.615,0.0107
+IDN,IDN0030,Indonesia,2.0,,100.0,0.0,PT INTI GENERAL YAJA STEEL,"SERAMANG, CENTR. JAVA",Operating,-7.6145292,110.7122465,PlantFacts,Approximate,,,,,,,,,,,,,,,273523.615,0.0107
+IDN,IDN0031,Indonesia,3.0,,,0.0,NS BLUESCOPE COATED PRODUCTS,"CILEGON, WEST JAVA",Operating,-6.3330059,106.7797115,PlantFacts,Approximate,,,,,,,,,,,,,,,273523.615,0.0107
+IDN,IDN0032,Indonesia,1.0,,,0.0,PT BISMA NARENDRA,"BEKASI, WEST JAVA",Operating,-6.234077,107.11223600000001,PlantFacts,Approximate,,,,,,,,,,,,,,,273523.615,0.0107
+IRQ,IRQ0001,Iraq,4.0,,1250.0,1.0,MASS GLOBEL INVESTMENT,"SULAYMANIYAH, KURDISTAN",Operating,35.555760299999996,45.435118100000004,PlantFacts,Approximate,,,,,,,,,,,,,,,40222.493,0.0232
+IRQ,IRQ0002,Iraq,4.0,,450.0,0.0,AL ANMAå«A STEEL,"KHOR AL-ZUBAIR, BASRA",Operating,30.2331397,47.768688899999994,PlantFacts,Approximate,,,,,,,,,,,,,,,40222.493,0.0232
+IRQ,IRQ0003,Iraq,8.0,,520.0,0.0,STATE COMPANY FOR IRON & STEEL,"KHOUR AL-ZUBAIR, BASRA",Operating,30.2331397,47.768688899999994,PlantFacts,Approximate,,,,,,,,,,,,,,,40222.493,0.0232
+ISR,ISR0001,Israel,2.0,,,0.0,HOD ASSAF INDUSTRIES LTD,KIRIAT GAT ROLLING MILL,Operating,31.611147999999996,34.768459,PlantFacts,Approximate,,,,,,,,,,,,,,,8655.535,0.016
+ISR,ISR0002,Israel,3.0,,400.0,0.0,HOD ASSAF INDUSTRIES LTD,KIRIAT HAPLADA AKKO,Operating,31.611147999999996,34.768459,PlantFacts,Approximate,,,,,,,,,,,,,,,8655.535,0.016
+ISR,ISR0003,Israel,1.0,,,0.0,YEHUDA STEEL LTD,GEDERA,Operating,31.812301399999996,34.777019200000005,PlantFacts,Approximate,,,,,,,,,,,,,,,8655.535,0.016
+ISR,ISR0004,Israel,4.0,,180.0,0.0,YEHUDA STEEL LTD,ASHDOD,Operating,31.8367098,34.68152620000001,PlantFacts,Approximate,,,,,,,,,,,,,,,8655.535,0.016
+JPN,JPN0065,Japan,2.0,,0.0,0.0,HOKUETSU METAL CO,"NAGAOKA, NIIGATA",Operating,37.4462652,138.8512772,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0066,Japan,2.0,,,0.0,NIPPON COKE & ENGINEERING CO,KITAKYUSHU,Operating,33.8834093,130.8752161,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0067,Japan,3.0,,,0.0,NIPPON KOSHUHA STEEL,TOYAMA,Operating,36.695951799999996,137.2136768,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0068,Japan,9.0,,500.0,0.0,NIPPON METAL IND.(NTK),"KINUURA, AICHI Pref.",Operating,34.90692070000001,136.98352859999997,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0069,Japan,3.0,,480.0,0.0,OJI STEEL,"OHTA, GUNMA",Operating,36.2911223,139.37547080000002,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0070,Japan,4.0,,0.0,0.0,SHIMIZU SEIKO CO,TOMAKOMAI,Operating,42.6343021,141.60537209999998,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0071,Japan,2.0,,350.0,0.0,SHINKANSAI STEEL CORP,SAKAI CITY,Operating,34.573262,135.482998,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0072,Japan,3.0,,,0.0,TAIYO STEEL CO,"FUNABASHI, CHIBA",Operating,35.694705799999994,139.982618,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0073,Japan,3.0,,500.0,0.0,TAKUNAN STEEL,"NAKAGOSUKU,OKINAWA",Operating,26.2673794,127.79112549999999,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0075,Japan,4.0,,0.0,0.0,TOKAI SPECIAL STEEL,TOKAI CITY,Operating,35.022842600000004,136.90253,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0076,Japan,3.0,,360.0,0.0,TOYO STEEL,ISHIOKA-CITY,Operating,36.190048299999994,140.287556,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0077,Japan,3.0,,1020.0,1.0,YAMATO STEEL CO,HIMEJI CITY,Operating,34.815149,134.6853528,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0081,Japan,2.0,,0.0,0.0,YAMAGUCHI KOGYO LTD,YAMAGUCHI GIFU CITY,Operating,35.5590296,137.5520984,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0082,Japan,6.0,,700.0,0.0,MITSUBISHI STEEL MURORAN,"MURORAN, HOKKAIDO",Operating,42.3151792,140.9737666,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0083,Japan,5.0,,270.0,0.0,"THE JAPAN STEEL WORKS, LTD",MURORAN,Operating,42.3151792,140.9737666,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0084,Japan,1.0,,,0.0,NIPPON STEEL SUMIKIN SHAPES,"KASHIMA, IBARAKI Pref.",Operating,35.9657558,140.6448128,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0085,Japan,2.0,,,0.0,TOKAI STEEL WORKS,WAKAMATSU,Operating,37.494761100000005,139.9298096,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0086,Japan,1.0,,60.0,0.0,NACHI FUJIKOSHI CORP,N.FUJIKOSHI HIGASHI,Operating,35.6532174,139.71103630000002,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0087,Japan,5.0,,,0.0,NSSMC,YAWATA,Operating,34.87555510000001,135.7076209,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0088,Japan,1.0,,,0.0,MITSUBISHI KASEI ,SAKAIDE,Operating,34.316319299999996,133.8605102,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0089,Japan,3.0,,600.0,0.0,MITSUBOSHI KINZOKU,IIDOMAKI,Operating,38.4344802,141.3029167,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0090,Japan,3.0,,600.0,0.0,ITOH STEEL,ISHINOMAKI,Operating,38.4344802,141.3029167,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0091,Japan,2.0,,600.0,0.0,KASHIMA SENKO CO LTD,KASHIMA,Operating,35.9657558,140.6448128,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0092,Japan,1.0,,,0.0,IGETA STEEL SHEET CO,"SAKAI-CITY, OSAKA",Operating,34.573262,135.482998,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0093,Japan,3.0,,400.0,0.0,"KOTOBUKI INDUSTRIES CO, LTD","KURE-CITY, HIROSHIMA",Operating,34.2486458,132.5654407,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JPN,JPN0097,Japan,6.0,,1440.0,1.0,DAIWA STEEL (JFE),MIZUSHIMA WORKS,Operating,36.6387419,136.9015148,PlantFacts,Approximate,,,,,,,,,,,,,,,126476.461,-0.003
+JOR,JOR0001,Jordan,3.0,,360.0,0.0,JORDAN STEEL PLC,AMMAN,Operating,31.9539494,35.910635,PlantFacts,Approximate,,,,,,,,,,,,,,,10203.134,0.01
+JOR,JOR0002,Jordan,1.0,,,0.0,NAT.STEEL INDUSTRY CO LTD,AWAJAN,Operating,32.0271756,36.069555799999996,PlantFacts,Approximate,,,,,,,,,,,,,,,10203.134,0.01
+KAZ,KAZ0003,Kazakhstan,1.0,,,0.0,AKTOBE RAIL & SECTION WORKS LLP,AKTOBE,Operating,50.2839339,57.166978,PlantFacts,Approximate,,,,,,,,,,,,,,,18776.707,0.0121
+KAZ,KAZ0004,Kazakhstan,6.0,,700.0,0.0,CASPIAN STAL,"AKTAU, WEST KAZAKHSTAN",Operating,50.997962799999996,50.1798261,PlantFacts,Approximate,,,,,,,,,,,,,,,18776.707,0.0121
+KAZ,KAZ0005,Kazakhstan,4.0,,76.0,0.0,Eurasian Natural Resources Corp,"RUDNIY TOWN, KOSTANAY",Operating,52.971421,63.114576,PlantFacts,Approximate,,,,,,,,,,,,,,,18776.707,0.0121
+KAZ,KAZ0006,Kazakhstan,1.0,,,0.0,EVRAZ KASPIAN STEEL,KOSTANAY,Operating,53.221467000000004,63.632812,PlantFacts,Approximate,5036227579,EVRAZ plc,0.45,2013.0,https://www.evraz.com/en/company/assets/#steel,2020-04-08,5036227579.0,EVRAZ plc,,,,,,,18776.707,0.0121
+KWT,KWT0002,Kuwait,1.0,,,0.0,KUWAIT REINFORCED STEEL MG.,KUWAIT,Operating,29.375859000000002,47.9774052,PlantFacts,Approximate,,,,,,,,,,,,,,,4270.571,0.0151
+MYS,MYS0025,Malaysia,1.0,,,0.0,MARUICHI STEEL TUBE,SELANGOR,Operating,3.064494,101.53877800000001,PlantFacts,Approximate,,,,,,,,,,,,,,,32365.999,0.013
+MYS,MYS0026,Malaysia,2.0,,,0.0,STEEL IND. SARAWAK,DEMAK LAUT IND. PARK,Operating,1.5929138999999999,110.40748059999999,PlantFacts,Approximate,,,,,,,,,,,,,,,32365.999,0.013
+MMR,MMR0002,Myanmar,1.0,,,0.0,DAGON STEEL,YANGON,Operating,16.866069399999997,96.195132,PlantFacts,Approximate,,,,,,,,,,,,,,,54409.8,0.0067
+MMR,MMR0003,Myanmar,1.0,,,0.0,MYANMAR STEEL IND.,YANGON,Operating,16.866069399999997,96.195132,PlantFacts,Approximate,,,,,,,,,,,,,,,54409.8,0.0067
+MMR,MMR0004,Myanmar,4.0,,70.0,0.0,No.3 MINING CORP.,MANDALAY,Operating,21.9588282,96.0891032,PlantFacts,Approximate,,,,,,,,,,,,,,,54409.8,0.0067
+OMN,OMN0008,Oman,1.0,,7000.0,1.0,FOULATH-JFE,SALALAH,Operating,17.0506675,54.1065864,PlantFacts,Approximate,,,,,,,,,,,,,,,5106.626,0.0265
+PAK,PAK0009,Pakistan,2.0,,,0.0,HASHOO STEEL IND,"ZULFIQARABAD, KARACHI",Operating,24.8755355,67.3027396,PlantFacts,Approximate,,,,,,,,,,,,,,,220892.34,0.02
+PAK,PAK0010,Pakistan,1.0,,,0.0,SIDDIQSONS,KARACHI,Operating,25.070042800000003,67.2847875,PlantFacts,Approximate,,,,,,,,,,,,,,,220892.34,0.02
+PAK,PAK0011,Pakistan,2.0,,,0.0,METROPOLITAN STEEL,"LANDHI, KARACHI",Operating,24.8400447,67.2225278,PlantFacts,Approximate,,,,,,,,,,,,,,,220892.34,0.02
+PHL,PHL0009,Philippines,2.0,,0.0,0.0,MIDLAND STEEL CORP,GLOBE MANILA,Operating,14.672573300000002,121.10874380000001,PlantFacts,Approximate,,,,,,,,,,,,,,,109581.078,0.0135
+PHL,PHL0011,Philippines,2.0,,0.0,0.0,ARMSTRONG IND,CALOOCAN,Operating,14.6442165,120.984283,PlantFacts,Approximate,,,,,,,,,,,,,,,109581.078,0.0135
+PHL,PHL0012,Philippines,2.0,,0.0,0.0,SKK STEEL CORP,MANILA,Operating,14.598771,120.974152,PlantFacts,Approximate,,,,,,,,,,,,,,,109581.078,0.0135
+PHL,PHL0021,Philippines,1.0,,,0.0,STEELASIA,"CDO WORKS ORIENTAL, MINDANAO",Operating,8.454236300000002,124.6318977,PlantFacts,Approximate,,,,,,,,,,,,,,,109581.078,0.0135
+PHL,PHL0022,Philippines,5.0,,0.0,0.0,MILWAUKEE IND. CORP,PAMPANGA,Operating,15.079409,120.6199895,PlantFacts,Approximate,,,,,,,,,,,,,,,109581.078,0.0135
+PHL,PHL0023,Philippines,2.0,,0.0,0.0,METRO CONCAST STEEL,MANILA,Operating,14.599512400000002,120.98421950000001,PlantFacts,Approximate,,,,,,,,,,,,,,,109581.078,0.0135
+PHL,PHL0024,Philippines,3.0,,0.0,0.0,ARMCO-MARSTEEL ALLOY,TAGUIG,Operating,14.517618400000002,121.0508645,PlantFacts,Approximate,,,,,,,,,,,,,,,109581.078,0.0135
+PHL,PHL0025,Philippines,2.0,,0.0,0.0,APOLLO STEEL MILL,MANILA,Operating,14.599512400000002,120.98421950000001,PlantFacts,Approximate,,,,,,,,,,,,,,,109581.078,0.0135
+SAU,SAU0014,Saudi Arabia,4.0,,910.0,0.0,AL ATOUN STEEL INDUSTRIES,"YANBU INDUSTR. CITY II, MEDINA",Operating,23.9845503,38.2016503,PlantFacts,Approximate,,,,,,,,,,,,,,,34813.871,0.0159
+SAU,SAU0015,Saudi Arabia,1.0,,,0.0,S.I.D.C. METAL COATING CO,BAHRA,Operating,21.3795302,39.434670600000004,PlantFacts,Approximate,,,,,,,,,,,,,,,34813.871,0.0159
+LKA,LKA0003,Sri Lanka,2.0,,20.0,0.0,HIAT STEELS ,"DEKATANA, PALEHELA",Operating,6.967123299999999,80.0381232,PlantFacts,Approximate,,,,,,,,,,,,,,,21413.249,0.0042
+THA,THA0009,Thailand,3.0,,,0.0,SAHAVIRIYA STEEL IND. PUBLIC CO LTD,BANG SAPHAN,Operating,11.228052,99.541788,PlantFacts,Approximate,,,,,,,,,,,,,Exact plant address in AR2018 (p. 153),,69799.978,0.0025
+THA,THA0024,Thailand,1.0,,,0.0,BANGSAPHAN BAR MILL,BANG SAPHAN,Operating,11.214051199999998,99.511767,PlantFacts,Approximate,,,,,,,,,,,,,,,69799.978,0.0025
+THA,THA0025,Thailand,7.0,,500.0,0.0,BANGKOK I&ST WORKS,PHRAPRADAENG,Operating,13.6574562,100.5537428,PlantFacts,Approximate,,,,,,,,,,,,,,,69799.978,0.0025
+THA,THA0026,Thailand,2.0,,,0.0,BANGKOK STEEL IND.,NAKORNRACHASIMA,Operating,14.973849300000001,102.083652,PlantFacts,Approximate,,,,,,,,,,,,,,,69799.978,0.0025
+THA,THA0027,Thailand,5.0,,700.0,0.0,"MILLCON BURAPA CO., LTD",RAYONG,Operating,12.6813957,101.2816261,PlantFacts,Approximate,,,,,,,,,,,,,,,69799.978,0.0025
+THA,THA0028,Thailand,4.0,,0.0,0.0,SIAM STEEL SYNDICATE,BANGKOK,Operating,13.7563309,100.5017651,PlantFacts,Approximate,,,,,,,,,,,,,,,69799.978,0.0025
+THA,THA0029,Thailand,1.0,,,0.0,POSCO GALVANIZING,RAYONG,Operating,12.6813957,101.2816261,PlantFacts,Approximate,,,,,http://www.posco.com/homepage/docs/eng6/jsp/company/family/foreign_02_02.jsp,,,,,,,,No mention of glazing,,69799.978,0.0025
+THA,THA0031,Thailand,4.0,,700.0,0.0,SIAM YAMATO STEEL CO,"MAP TA PHUT II, RAYONG",Operating,12.693374,101.14897690000001,PlantFacts,Approximate,,,,,,,,,,,,,,,69799.978,0.0025
+THA,THA0032,Thailand,4.0,,120.0,0.0,THAI PATHANA STEEL,BANGKOK,Operating,13.7563309,100.5017651,PlantFacts,Approximate,,,,,,,,,,,,,,,69799.978,0.0025
+THA,THA0033,Thailand,2.0,,,0.0,THAI STEEL PROFILE CO LTD,RAYONG,Operating,12.6813957,101.2816261,PlantFacts,Approximate,,,,,,,,,,,,,,,69799.978,0.0025
+THA,THA0034,Thailand,2.0,,,0.0,STARCORE CO LTD,RAYONG,Operating,12.8239586,101.2457399,PlantFacts,Approximate,,,,,,,,,,,,,,,69799.978,0.0025
+THA,THA0035,Thailand,5.0,,300.0,0.0,"M-METAL CO, LTD","AMPUR PATTANANIKOM, LOPBURI",Operating,14.7995081,100.65337059999999,PlantFacts,Approximate,,,,,,,,,,,,,,,69799.978,0.0025
+TUR,TUR0028,Turkey,1.0,,,0.0,ASSAN DEMIR AS (KIBAR),"KARTAL, ISTANBUL",Operating,40.918400399999996,29.220454800000002,PlantFacts,Approximate,,,,,,,,,,,,,,,84339.067,0.0109
+TUR,TUR0029,Turkey,1.0,,,0.0,ASSAN DEMIR AS (KIBAR),"MUALLIMKOY-GEBZE, KOCAELI",Operating,40.791724,29.490399,PlantFacts,Approximate,,,,,,,,,,,,,,,84339.067,0.0109
+TUR,TUR0030,Turkey,1.0,,,0.0,BASTUG CELIK,HATAY,Operating,36.401848799999996,36.3498097,PlantFacts,Approximate,,,,,,,,,,,,,,,84339.067,0.0109
+TUR,TUR0031,Turkey,1.0,,,0.0,KÌÏRÌÏM DEMIR,"GEBZE, KOCAELI",Operating,40.9329106,29.533971100000002,PlantFacts,Approximate,,,,,,,,,,,,,,,84339.067,0.0109
+TUR,TUR0032,Turkey,2.0,,,0.0,MMK METALÌÏRJI SANAYI,ISTANBUL,Operating,41.0082376,28.978358899999996,PlantFacts,Approximate,,,,,,,,,,,,,,,84339.067,0.0109
+TUR,TUR0034,Turkey,4.0,,900.0,0.0,YAZICI DEMIR CELIK (DILER),ISKENDERUN,Operating,36.584672999999995,36.1756161,PlantFacts,Approximate,,,,,,,,,,,,,,,84339.067,0.0109
+TUR,TUR0036,Turkey,6.0,,,0.0,TOSYALI TOYO CELIK A.S.,OSMANIYE,Operating,37.0165463,36.119338,PlantFacts,Approximate,,,,,,,,,,,,,,,84339.067,0.0109
+TUR,TUR0037,Turkey,4.0,,750.0,0.0,EGE MET.DEMIR CELIK,"ALIAGA, IZMIR",Operating,38.43251179999999,27.185658500000002,PlantFacts,Approximate,,,,,,,,,,,,,,,84339.067,0.0109
+TUR,TUR0038,Turkey,5.0,,720.0,0.0,SIVAS DEMIR CELIK,"SIVAS, ANATOL",Operating,39.596350799999996,37.075082200000004,PlantFacts,Approximate,,,,,,,,,,,,,,,84339.067,0.0109
+TUR,TUR0039,Turkey,3.0,,120.0,0.0,MKE CELIK FABRIKASI,KIRIKKALE,Operating,39.817005,33.4852571,PlantFacts,Approximate,,,,,,,,,,,,,,,84339.067,0.0109
+TUR,TUR0040,Turkey,2.0,,,0.0,ICDAS CELIK,"GÌÏNESLI, ISTANBUL",Operating,41.0082376,28.978358899999996,PlantFacts,Approximate,,,,,,,,,,,,,,,84339.067,0.0109
+TUR,TUR0044,Turkey,1.0,,1300.0,1.0,EREGLI DEMIR CELIK ,DIVRIGI,Operating,41.279909,31.420259899999998,PlantFacts,Approximate,,,,,,,,,,,,,,,84339.067,0.0109
+ARE,ARE0012,United Arab Emirates,1.0,,,0.0,SUNRISE METAL COATING LLC,DUBAI,Operating,24.9861865,55.15434739999999,PlantFacts,Approximate,,,,,,,,,,,,,,,9890.402,0.0123
+ARE,ARE0013,United Arab Emirates,1.0,,,0.0,RAK STEEL,AL GHAIL IND. PARK,Operating,25.3899494,55.9660856,PlantFacts,Approximate,,,,,,,,,,,,,,,9890.402,0.0123
+ARE,ARE0014,United Arab Emirates,3.0,,700.0,0.0,INTER STEEL FZE,FUJAIRAH,Operating,25.5474281,55.686274899999994,PlantFacts,Approximate,,,,,,,,,,,,,,,9890.402,0.0123
